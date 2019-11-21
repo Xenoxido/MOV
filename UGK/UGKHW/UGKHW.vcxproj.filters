@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="include\UGKAudioHardware.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKDeviceManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKGameController.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKGraphicsCard.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKHardware.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKHardwareList.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKJoystick.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKKeyboard.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKMouse.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UGKWebCam.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WiiMote\UGKWiimote.h">
+      <Filter>include\wiimote</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WiiMote\UGKWiimoteManager.h">
+      <Filter>include\wiimote</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Kinect\UGKKinect.h">
+      <Filter>include\Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Kinect\UGKKinect_signal_catch.h">
+      <Filter>include\Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Kinect\UGKKinectManager.h">
+      <Filter>include\Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Leap\UGKLeap.h">
+      <Filter>include\leap</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Leap\UGKLeapGestureRecognizer.h">
+      <Filter>include\leap</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Leap\UGKLeapGestureTreatment.h">
+      <Filter>include\leap</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{55db1ee2-b7e8-48eb-8589-f7f1a86d98d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{51b0aa88-d5a9-4689-896b-ba4cba343fa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\wiimote">
+      <UniqueIdentifier>{048cd5b3-afb4-4ac7-83de-163d9783c260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Kinect">
+      <UniqueIdentifier>{c43c0fc7-591e-4bd3-89e6-a517805f27a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\leap">
+      <UniqueIdentifier>{b60446d1-0672-4b95-a96e-afa02a3e02b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\kinect">
+      <UniqueIdentifier>{098f0e8e-afc0-49b2-8ba3-9f08b57eb8bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\wiimote">
+      <UniqueIdentifier>{a6d4db7c-f25b-4664-ba82-3ee332e8a510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\leap">
+      <UniqueIdentifier>{4cd67f4e-654a-4fed-9b0a-6b316f71201f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\UGKAudioHardware.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKDeviceManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKGameController.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKGraphicsCard.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKHardware.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKJoystick.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKKeyboard.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKMouse.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UGKWebCam.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Kinect\UGKKinect.cpp">
+      <Filter>src\kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Kinect\UGKKinect_signal_catch.cpp">
+      <Filter>src\kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Kinect\UGKKinectManager.cpp">
+      <Filter>src\kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Wiimote\UGKWiimote.cpp">
+      <Filter>src\wiimote</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Wiimote\UGKWiimoteManager.cpp">
+      <Filter>src\wiimote</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Leap\UGKLeap.cpp">
+      <Filter>src\leap</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Leap\UGKLeapGestureRecognizer.cpp">
+      <Filter>src\leap</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Leap\UGKLeapGestureTreatment.cpp">
+      <Filter>src\leap</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

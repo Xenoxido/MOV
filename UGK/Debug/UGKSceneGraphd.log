@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+cl : Línea de comandos warning D9030: '/Gm' es incompatible con el multiprocesamiento; se omitirá el modificador /MP
+  UGKSceneGraphUGK.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'src\SceneGraph\UGKSceneGraphUGK.cpp': No such file or directory
+  UGKSceneGraphOSG.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'src\SceneGraph\UGKSceneGraphOSG.cpp': No such file or directory
+  Generando código...

@@ -1,0 +1,105 @@
+﻿  Application.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Application.cpp': No such file or directory
+  ExplosiveChar.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\ExplosiveChar.cpp': No such file or directory
+  FontsManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\FontsManager.cpp': No such file or directory
+  Game.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Game.cpp': No such file or directory
+  Explosion.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Particles\Explosion.cpp': No such file or directory
+  ScoreManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\ScoreManager.cpp': No such file or directory
+  shader.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\shader.cpp': No such file or directory
+  shaderManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\shaderManager.cpp': No such file or directory
+  shader2.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\Shaders2\shader2.cpp': No such file or directory
+  ShaderManager2.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\Shaders2\ShaderManager2.cpp': No such file or directory
+  TextoGL.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Text2D3D\TextoGL.cpp': No such file or directory
+  Texture.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\Texture.cpp': No such file or directory
+  TextureAnimation.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TextureAnimation.cpp': No such file or directory
+  TextureAnimationManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TextureAnimationManager.cpp': No such file or directory
+  TexturesManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TexturesManager.cpp': No such file or directory
+  HRTimer.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimer.cpp': No such file or directory
+  HRTimerManager.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimerManager.cpp': No such file or directory
+  HRTimerStat.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimerStat.cpp': No such file or directory
+  LiteHTMLAttributes.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLAttributes.cpp': No such file or directory
+  LiteHTMLEntityResolver.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLEntityResolver.cpp': No such file or directory
+  Generando código...
+  Compilando...
+  LiteHTMLReader.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLReader.cpp': No such file or directory
+  glTexFont.cpp
+y:\iarfid\mov\prácticas\space invaders\lib\opengl\gltexfont.cpp(19): fatal error C1083: No se puede abrir el archivo incluir: 'glTexFont.h': No such file or directory
+  Bonus.cpp
+y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+  BonusManager.cpp
+y:\iarfid\mov\prácticas\space invaders\include\bonus.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+  Boometer.cpp
+y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+  Brick.cpp
+y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+  Bunker.cpp
+y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+  CircleShip.cpp
+y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+  GameCharacters.cpp
+y:\iarfid\mov\prácticas\space invaders\include\gamecharacters.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersFactory.h': No such file or directory
+  GameSounds.cpp
+y:\iarfid\mov\prácticas\space invaders\include\gamesounds.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+  Global.cpp
+y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+  GlobalTiming.cpp
+y:\iarfid\mov\prácticas\space invaders\include\globaltiming.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'HRTimerManager.h': No such file or directory
+  GUI.cpp
+y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+  InitializationParser.cpp
+y:\iarfid\mov\prácticas\space invaders\include\initializationparser.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKHTMLParser.h': No such file or directory
+  Laser.cpp
+y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+  LevelParser.cpp
+y:\iarfid\mov\prácticas\space invaders\include\levelparser.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKHTMLParser.h': No such file or directory
+  Main.cpp
+y:\iarfid\mov\prácticas\space invaders\src\main.cpp(6): fatal error C1083: No se puede abrir el archivo incluir: 'UGKLanguages_ISO639.h': No such file or directory
+  Navy.cpp
+y:\iarfid\mov\prácticas\space invaders\src\navy.cpp(8): fatal error C1083: No se puede abrir el archivo incluir: 'FSMParser.h': No such file or directory
+  Player.cpp
+y:\iarfid\mov\prácticas\space invaders\include\laser.h(11): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+  Reactor.cpp
+y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+  Generando código...
+  Compilando...
+  Scene.cpp
+y:\iarfid\mov\prácticas\space invaders\include\scene.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKAlgebra.h': No such file or directory
+  Ship.cpp
+y:\iarfid\mov\prácticas\space invaders\src\ship.cpp(6): fatal error C1083: No se puede abrir el archivo incluir: 'AI\FSMParser.h': No such file or directory
+  Shoot.cpp
+y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+  ShootsManager.cpp
+y:\iarfid\mov\prácticas\space invaders\include\gamecharacters.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersFactory.h': No such file or directory
+  SICharactersFactory.cpp
+y:\iarfid\mov\prácticas\space invaders\include\sicharactersfactory.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersPool.h': No such file or directory
+  SIGame.cpp
+y:\iarfid\mov\prácticas\space invaders\src\sigame.cpp(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKDeviceParser.h': No such file or directory
+  SIKeyboard.cpp
+y:\iarfid\mov\prácticas\space invaders\include\bonus.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+  SIMessage.cpp
+y:\iarfid\mov\prácticas\space invaders\include\simessage.h(23): fatal error C1083: No se puede abrir el archivo incluir: 'RTDeskMsgFactory.h': No such file or directory
+  SITexturesResources.cpp
+y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+  SupplyShip.cpp
+y:\iarfid\mov\prácticas\space invaders\include\navy.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKMeshManager.h': No such file or directory
+  Generando código...

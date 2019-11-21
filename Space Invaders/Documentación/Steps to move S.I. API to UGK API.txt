@@ -1,0 +1,25 @@
+Steps to move functionality from the S.I. API to the UGK API
+
+1.- Move all the headers files ("*.h") associated to the functionality you want to implement into the UGK API from the folder "SI 2011/API/folder" to the folder "UPVGameKernel/include/folder"
+2.- Copy all the "*.cpp" files from the folder "SI 2011/API/folder" folder to the folder "UPVGameKernel/include/src"
+3.- Modify as neccesary to improve functionality
+4.- Rename everything in order to match the UGK programming style. Take special care to avoid literals into the code. #define every literal at the beginning of the header files. Doxygenate every function. Mind prefixes and so on.
+5.- Compile the UGK API until no errors appear.
+6.- Once you are sure everything seems to work fine, compile both static (".lib") and dynamic (".dll") files.
+
+SandBox
+1.- If necessary, you can use the SandBox project in order to pre-test your functionality into a secure ambient. 
+2.- In order to test your library, move your UGK static and dynamic libraries into "SandBox/UGK/lib". You can find them into the "UPVGameKernel/debug" and "UPVGameKernel/release" folders.
+3.- Move the modified header files into the folder "SandBox/UGK/include/folder"
+4.- Go to the project SandBox into the Visual Studio UPVGameKernel solution and add the new "folder" into the default paths to look for when compiling.
+5.- Introduce a new initialization function and Test function where just other tests and initializations area just done. Perform the tests you need at your convenience. Good luck.
+
+
+Integrate the new functionality into S.I.
+1.-  Remove all the header and source files and folder which functionality was moved from S.I. to UGK from the corresponding folder "SI 2011/API/folder". Use the SVN client (turtoise,...) not the explorer file management.
+2.-  In order to test your library in a real video game, move your UGK static and dynamic libraries into "SI 2011/lib/UGK/lib". You can find them into the "UPVGameKernel/debug" and "UPVGameKernel/release" folders.
+3.- Move the modified header files and folder into the folder "SI 2011/lib/UGK/include/folder"
+4.- Go to the project "SI 2011" and add the new "folder" into the default paths to look for when compiling.
+5.- Remove all the references to the old files from the filters in the solution explorer in the Visual Studio IDE
+6.- Modify the S.I. project source code in order to avoid compiling errors and test everything works fine. Good luck.
+
